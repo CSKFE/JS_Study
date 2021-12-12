@@ -1,2 +1,2 @@
-# JS_Study by NYK
+# JS_Study
 자바스크립트 스터디!
