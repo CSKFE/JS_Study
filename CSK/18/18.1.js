@@ -31,3 +31,8 @@ console.log(increaser());
 const decreaser = makeCounter(predicate.decrease);
 console.log(decreaser());
 console.log(decreaser());
+
+
+function proto() {
+}
+console.log(Object.getOwnPropertyDescriptors(proto));
