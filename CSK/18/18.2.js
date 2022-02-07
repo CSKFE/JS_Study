@@ -49,3 +49,4 @@ function sum3(...arg) {
 }
 
 console.log(`sum3 ${sum3(1,2,3)}`);
+

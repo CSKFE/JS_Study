@@ -4,3 +4,5 @@ function Circle(radius) {
     return 2 * this.radius;
   }
 }
+
+const circle = new Circle(5);
